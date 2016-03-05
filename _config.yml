@@ -1,0 +1,28 @@
+name: mattei
+favicon: null
+layout_spectrum: 0.19470423157326877
+typography_spectrum: 0.8479387648403645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2957632557954639
+  lightness: 0.6791535154916346
+  saturation: 0.25331432302482426
+  rhythmicContrast: 0.9441390982829034
+purpose: []
